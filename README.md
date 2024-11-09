@@ -1,2 +1,2 @@
 # JavaScript
-Starting JavaScript as a beginner.
+Starting JavaScript as a beginner
